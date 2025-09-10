@@ -23,10 +23,14 @@ Please use the official **ZeroG print settings** for best results:
 ---
 
 ## Images
+
 Here are some example images showing what the modified spacers look like in practice:
 
-![IMG_20250908_151019611](https://github.com/user-attachments/assets/76b2c02c-22f9-40b0-8db7-8e93a241ec75)
-![IMG_20250908_200801228](https://github.com/user-attachments/assets/77b540a5-6d44-410d-b74e-0497126caccc)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/9a28466b-e3ab-4fa8-ab38-c9d0cda0cfdf" alt="Spacer 1" width="300">
+  <img src="https://github.com/user-attachments/assets/eae6777c-ca93-4cf0-9dfc-f38b1491e362" alt="Spacer 2" width="300">
+</div>
+
 
 ---
 
