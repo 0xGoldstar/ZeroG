@@ -4,6 +4,14 @@
 I modified the **Stepper Tower Spacers** to work with **hex spacers** instead of round spacers.  
 These modified parts have been tested with my personal hardware and are confirmed to work reliably.
 
+**Compatibility Notes:**  
+- This modification is only compatible with **9mm belts**.  
+- Works with the following bearing types:  
+  - **698-RS** (8x19x6mm)  
+  - **F608-2RS** (8x22x7mm)  
+
+Please ensure your hardware matches these specifications for proper fit and function.
+
 ---
 
 ## Spacers Link
